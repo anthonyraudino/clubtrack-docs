@@ -47,13 +47,6 @@ export default defineConfig({
         items: [
           { text: 'Troubleshooting', link: '/guides/troubleshooting' }
         ]
-      },
-      {
-        text: 'Technical',
-        collapsed: true,
-        items: [
-          { text: 'Installation', link: '/guides/installation' }
-        ]
       }
     ],
     socialLinks: [
