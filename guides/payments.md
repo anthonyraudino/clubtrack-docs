@@ -1,9 +1,7 @@
-# Tracking Payments
+# Payments
 
-Keep your club's finances organized and transparent.
+For member payment help, see [Renewals, Invoices, and Payments](./renewals-payments.md).
 
-## Payment Methods
-ClubTrack supports multiple payment gateways including Stripe and PayPal.
+For club administrators, see [Administrator Guide: Renewals & Financials](./admin-financials.md).
 
-## Monitoring Dues
-The dashboard provides a real-time view of who has paid their membership fees and who is overdue.
+The current ClubTrack frontend supports invoice PDFs, bank/payment instructions, payment status tracking, GST-aware invoice information, and Stripe checkout for eligible invoices when the club has configured supported card payments.
