@@ -1,11 +1,12 @@
 # Introduction
 
-Welcome to ClubTrack! This guide will help you understand the core concepts and how to navigate the platform.
+The ClubTrack support documentation has been expanded to match the current frontend web app.
 
-ClubTrack is designed to simplify club management, member tracking, and payment processing.
+Start with [Getting Started with ClubTrack](./getting-started.md) for sign-in, workspaces, navigation, and dashboard guidance.
 
-## Core Features
-- Member Directories
-- Automated Payment Tracking
-- Communication Tools
-- Administrative Dashboards
+You may also want:
+
+- [Managing Your Member Account](./member-account.md)
+- [Recording and Reviewing Participation](./participation.md)
+- [Roles, Workspaces, and Feature Availability](./features-and-access.md)
+- [Troubleshooting ClubTrack](./troubleshooting.md)
